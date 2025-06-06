@@ -1,4 +1,4 @@
-version: 5.7.49
+version: 5.5.1
 session: 684201bb062be13ae33117a9
 steps:
   - prompt: open browser
